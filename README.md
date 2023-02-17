@@ -1,29 +1,3 @@
-[![Build Status](https://travis-ci.org/shazow/ssh-chat.svg?branch=master)](https://travis-ci.org/shazow/ssh-chat)
-[![GoDoc](https://godoc.org/github.com/shazow/ssh-chat?status.svg)](https://godoc.org/github.com/shazow/ssh-chat)
-[![Downloads](https://img.shields.io/github/downloads/shazow/ssh-chat/total.svg?color=orange)](https://github.com/shazow/ssh-chat/releases)
-[![Bountysource](https://www.bountysource.com/badge/team?team_id=52292&style=bounties_received)](https://www.bountysource.com/teams/ssh-chat/issues?utm_source=ssh-chat&utm_medium=shield&utm_campaign=bounties_received)
-
-
-# ssh-chat
-
-Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
-
-## Demo
-
-Join the party:
-
-``` console
-$ ssh ssh.chat
-```
-
-Please abide by our [project's Code of Conduct](https://github.com/shazow/ssh-chat/blob/master/CODE_OF_CONDUCT.md) while participating in chat.
-
-The host's public key is `ssh.chat ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKPrQofxXqoz2y9A7NFkkENt6iW8/mvpfes3RY/41Oyt` and the fingerprint is `SHA256:yoqMXkCysMTBsvhu2yRoMUl+EmZKlvkN+ZKmL3115xU` (as of 2021-10-13).
-
-If you see something different, you might be [MITM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)'d.
-
-(Apologies if the server is down, try again shortly.)
-
 
 ## Downloading a release
 
